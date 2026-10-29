@@ -1,23 +1,52 @@
-# WanderGo — Travel & Tourism Website
 
-A responsive travel agency landing page built with **HTML, CSS and vanilla JavaScript**. Designed as a portfolio project.
+# WanderGo — Travel & Tourism Website ✈️
 
-## Features
-- Responsive layout with mobile navigation
-- Destination cards with quick destination search
-- Tour package category filters and price sorting
-- Trip details modal with validated demo booking request form
-- Favorite buttons and newsletter demo interaction
+A modern, responsive travel website built with HTML, CSS, and JavaScript. Explore destinations, browse tour packages, and try the demo booking experience.
+
+🌐 **[View Live Website](https://danish-frontend-developer.github.io/wandergo-travel-project/)**
+
+## ✨ Features
+
+- Responsive design for desktop, tablet, and mobile
+- Destination search functionality
+- Tour package category filters
+- Package price sorting
+- Trip details modal
+- Demo booking form with validation
+- Favorite destination buttons
+- Newsletter interaction
 - Scroll reveal animations and toast notifications
-- Accessible dialog close controls and reduced-motion support
+- Accessible controls and reduced-motion support
 
-## Run in VS Code
-1. Extract the ZIP file.
-2. Open the `wandergo-travel-project` folder in VS Code.
-3. Open `index.html` in your browser, or install the **Live Server** extension and choose **Open with Live Server**.
+## 🛠️ Technologies Used
 
-## Important
-This is a **front-end portfolio demo**. Booking requests and newsletter signup are simulated in the browser. No backend, database, email delivery, or real payment processing is connected. Destination photos are loaded from Unsplash, so an internet connection is needed for those images and Google Fonts.
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub Pages
 
-## Suggested GitHub description
-`Responsive travel and tourism website built with HTML, CSS and JavaScript. Includes destination search, tour filters, price sorting, package details modal, demo booking form, newsletter interaction and mobile-friendly design.`
+## 🚀 Run Locally
+
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+4. Or use the VS Code Live Server extension.
+
+No additional installation or build tools are required.
+
+## 🔗 Project Links
+
+- **Live Demo:** https://danish-frontend-developer.github.io/wandergo-travel-project/
+- **GitHub Repository:** https://github.com/danish-frontend-developer/wandergo-travel-project
+
+## 📌 Project Note
+
+This is a frontend portfolio project. Booking requests and newsletter signups are demo interactions. No backend, database, real email delivery, or payment system is connected.
+
+## 👨‍💻 Developer
+
+**Md Danish Alam**
+
+- GitHub: https://github.com/danish-frontend-developer
+- LinkedIn: https://www.linkedin.com/in/md-danish-alam-935b29326/
+
